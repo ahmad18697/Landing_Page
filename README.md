@@ -52,7 +52,7 @@ Before you begin, ensure you have the following installed:
 
 4. Start the development server:
    ```bash
-   npm start
+   npm  run dev
    ```
 
 5. Visit [http://localhost:3000](http://localhost:3000) to view the project.
